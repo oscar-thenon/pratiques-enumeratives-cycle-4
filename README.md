@@ -1,6 +1,6 @@
 # Pratiques énumératives au cycle 4 - mémoire de master - 2022
 
-Mémoire de Master _Métiers de l'enseignemen, de l'éducation et de la formation_ - Université Claude Bernard Lyon 1 - INSPE - Lyon 2022. Dirigé par Jean-Louis Bonnafet. Soutenu le 16 juin 2022.
+Mémoire de Master _Métiers de l'enseignement, de l'éducation et de la formation_ - Université Claude Bernard Lyon 1 - INSPE - Lyon 2022. Dirigé par Jean-Louis Bonnafet. Soutenu le 16 juin 2022.
 
 ## Résumé
 
